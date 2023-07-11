@@ -9,8 +9,7 @@ Using a clean Bootstrap to showcase the home-page.
 <br>
 <br>
 
-<img src="![3](https://github.com/ziynnyiy/Course-Management-Website/assets/130062212/2305262b-776f-449e-a257-c0bfcc553953)
-" wigth="400" height="400" />
+<img src="https://github.com/ziynnyiy/Course-Management-Website/assets/130062212/909a9e3c-f243-4911-86f3-8cb0286db91a" wigth="400" height="400" />
 <br>
 Also the register page.
 <br>
