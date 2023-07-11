@@ -15,7 +15,7 @@ Also the register page.
 <br>
 <br>
 <br>
-<img src="https://github.com/ziynnyiy/Course-Management-Website/assets/130062212/94b6660b-56ea-4c66-890a-73a70a797be0" wigth="400" height="400" />
+<img src="https://github.com/ziynnyiy/Course-Management-Website/assets/130062212/00583229-13c8-4d6a-94cf-0a24f7634ac9" wigth="400" height="400" />
 <br>
 Post course page for instructors only.
 <br>
