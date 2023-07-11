@@ -27,4 +27,4 @@ Post course page for instructors only.
 <img src="https://github.com/ziynnyiy/Course-Management-Website/assets/130062212/b46dba83-43e5-4dd1-884a-0f4e48f7bb56" wigth="400" height="400" />
 <br>
 Course component page from view of the instructors.<br>
-~
+<br>
