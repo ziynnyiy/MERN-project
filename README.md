@@ -8,6 +8,7 @@ Using a clean Bootstrap to showcase the home-page.
 <br>
 <br>
 <br>
+<br>
 
 <img src="https://github.com/ziynnyiy/Course-Management-Website/assets/130062212/909a9e3c-f243-4911-86f3-8cb0286db91a" wigth="350" height="350" />
 <br>
@@ -15,9 +16,11 @@ Also the register page.
 <br>
 <br>
 <br>
+<br>
 <img src="https://github.com/ziynnyiy/Course-Management-Website/assets/130062212/00583229-13c8-4d6a-94cf-0a24f7634ac9" wigth="400" height="400" />
 <br>
 Post course page for instructors only.
+<br>
 <br>
 <br>
 <br>
